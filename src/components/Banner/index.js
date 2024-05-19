@@ -12,7 +12,7 @@ export default function Banner () {
 			</div>
 
 			<div className={styles.imagens}>
-				<img className={styles.circyloColorido} src={circuloColorido} aria-hidden="true" />
+				<img className={styles.circyloColorido} src={circuloColorido} aria-hidden="true" alt="" />
 				<img className={styles.minhaFoto} src="https://github.com/diogo-coelho.png" alt="Minha foto pessoal" />
 			</div>
 		</div>
